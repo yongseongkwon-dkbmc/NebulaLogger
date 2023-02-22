@@ -1,6 +1,7 @@
 Logger.getUserSettings().DefaultSaveMethod__c = Logger.SaveMethod.EVENT_BUS.name();
 // test
 // test
+// test
 // Logger.getUserSettings().DefaultSaveMethod__c = 'BIG_OBJECT_IMMEDIATE';
 // Logger.getUserSettings().DefaultSaveMethod__c = 'BIG_OBJECT_QUEUEABLE';
 // Logger.getUserSettings().IsAnonymousModeEnabled__c = true;
